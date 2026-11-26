@@ -51,7 +51,7 @@
 | **T12** | `web/resultados` | Ximena Gress | `JeesieGress-ITSOEH` | Juan Ignacio | ✅ Integrada | — |
 | **T13** | `web/estilos` | Ximena Gress | `JeesieGress-ITSOEH` | Alexander Martin | ✅ Integrada | — |
 | **T14** | `docs/presentacion` | Alexander & Francisco | `AlexF4-afk` | Ximena Gress | ✅ Integrada | — |
-| **T15** | `docs/portada-repo` | Juan Ignacio | `260110464-collab` | Ximena Gress | ⏳ Pendiente | — |
+| **T15** | `docs/portada-repo` | Juan Ignacio | `260110464-collab` | Ximena Gress | ✅ Integrada | — |
 | **T16** | `revision/final` | Todo el equipo | `JeesieGress-ITSOEH` | Cruzada (Equipo) | ⏳ Pendiente | — |
 
 ---
