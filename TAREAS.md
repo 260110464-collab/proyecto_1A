@@ -50,7 +50,7 @@
 | **T11** | `pruebas/problema-2` | Alexander Martin | `AlexF4-afk` | Juan Ignacio | ✅ Integrada | — |
 | **T12** | `web/resultados` | Ximena Gress | `JeesieGress-ITSOEH` | Juan Ignacio | ⏳ Pendiente | — |
 | **T13** | `web/estilos` | Ximena Gress | `JeesieGress-ITSOEH` | Alexander Martin | ✅ Integrada | — |
-| **T14** | `docs/presentacion` | Alexander & Francisco | `AlexF4-afk` | Ximena Gress | ⏳ Pendiente | — |
+| **T14** | `docs/presentacion` | Alexander & Francisco | `AlexF4-afk` | Ximena Gress | ✅ Integrada | — |
 | **T15** | `docs/portada-repo` | Juan Ignacio | `260110464-collab` | Ximena Gress | ⏳ Pendiente | — |
 | **T16** | `revision/final` | Todo el equipo | `JeesieGress-ITSOEH` | Cruzada (Equipo) | ⏳ Pendiente | — |
 
