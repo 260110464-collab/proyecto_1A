@@ -251,7 +251,7 @@ La opción 3 permite finalizar el programa.
 
 ---
 
-**# 6. Conclusion**
+*# 6. Conclusion*
 
 Este proyecto integrador permitió aplicar los conocimientos de programación Java para resolver dos problemáticas diferentes.
 
