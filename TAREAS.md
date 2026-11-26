@@ -41,7 +41,7 @@
 | **T02** | `estructura/base` | Juan Ignacio | `260110464-collab` | Alexander Martin | ✅ Integrada | — |
 | **T03** | `web/planteamiento` | Alexander Martin | `AlexF4-afk` | Juan Ignacio | ✅ Integrada | — |
 | **T04** | `web/metodologia` | Francisco Neria | `FranciscoND521` | Alexander Martin | ⏳ Pendiente | — |
-| **T05** | `web/integrantes` | Francisco Neria | `FranciscoND521` | Ximena Gress | ⏳ Pendiente | — |
+| **T05** | `web/integrantes` | Francisco Neria | `FranciscoND521` | Ximena Gress | ✅ Integrada | — |
 | **T06** | `java/problema-1` | Alexander Martin | `AlexF4-afk` | Francisco Neria | ✅ Integrada | — |
 | **T07** | `docs/problema-1` | Ximena Gress | `JeesieGress-ITSOEH` | Alexander Martin | ✅ Integrada | — |
 | **T08** | `pruebas/problema-1` | Ximena Gress | `JeesieGress-ITSOEH` | Francisco Neria | ✅ Integrada | — |
