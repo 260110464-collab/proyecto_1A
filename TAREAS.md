@@ -48,7 +48,7 @@
 | **T09** | `java/problema-2` | Francisco Neria | `FranciscoND521` | Juan Ignacio | ⏳ Pendiente | — |
 | **T10** | `docs/problema-2` | Juan Ignacio | `260110464-collab` | Francisco Neria | ✅ Integrada | — |
 | **T11** | `pruebas/problema-2` | Alexander Martin | `AlexF4-afk` | Juan Ignacio | ✅ Integrada | — |
-| **T12** | `web/resultados` | Ximena Gress | `JeesieGress-ITSOEH` | Juan Ignacio | ⏳ Pendiente | — |
+| **T12** | `web/resultados` | Ximena Gress | `JeesieGress-ITSOEH` | Juan Ignacio | ✅ Integrada | — |
 | **T13** | `web/estilos` | Ximena Gress | `JeesieGress-ITSOEH` | Alexander Martin | ✅ Integrada | — |
 | **T14** | `docs/presentacion` | Alexander & Francisco | `AlexF4-afk` | Ximena Gress | ✅ Integrada | — |
 | **T15** | `docs/portada-repo` | Juan Ignacio | `260110464-collab` | Ximena Gress | ⏳ Pendiente | — |
