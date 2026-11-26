@@ -1,0 +1,162 @@
+
+/* ESTILOS GENERALES */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eaf0f8;
+    margin: 0;
+    padding: 0;
+    color: #26344a;
+    line-height: 1.6;
+}
+
+
+/* ENCABEZADO */
+
+header {
+    background-color: #243b64;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+
+/* MENU DE NAVEGACION */
+
+nav {
+    background-color: #182b4a;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #a9c7ff;
+    text-decoration: underline;
+}
+
+
+/* CONTENIDO PRINCIPAL */
+
+main {
+    width: 90%;
+    max-width: 1100px;
+    margin: 30px auto;
+}
+
+section {
+    background-color: white;
+    margin-bottom: 25px;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px #0002;
+}
+
+h2, h3 {
+    color: #243b64;
+}
+
+
+/* TABLAS */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 15px;
+}
+
+th, td {
+    border: 1px solid #ccd5e2;
+    padding: 12px;
+    text-align: center;
+}
+
+th {
+    background-color: #243b64;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f1f5fa;
+}
+
+
+/* IMAGENES */
+
+img {
+    max-width: 100%;
+}
+
+
+/* PAGINAS PERSONALES */
+
+.perfil {
+    background-color: white;
+    width: 80%;
+    max-width: 500px;
+    margin: 35px auto;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px #0002;
+    text-align: center;
+}
+
+.perfil img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
+/* PIE DE PAGINA */
+
+footer {
+    background-color: #243b64;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+
+/* DISEÑO PARA CELULARES */
+
+@media (max-width: 600px) {
+
+    nav a {
+        display: block;
+        margin: 8px;
+    }
+
+    main {
+        width: 95%;
+    }
+
+    section {
+        padding: 15px;
+        overflow-x: auto;
+    }
+
+    .perfil {
+        width: 90%;
+    }
+
+    table {
+        font-size: 13px;
+    }
+}
