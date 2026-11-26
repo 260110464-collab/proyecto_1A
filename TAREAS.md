@@ -44,10 +44,10 @@
 | **T05** | `web/integrantes` | Francisco Neria | `FranciscoND521` | Ximena Gress | ⏳ Pendiente | — |
 | **T06** | `java/problema-1` | Alexander Martin | `AlexF4-afk` | Francisco Neria | ⏳ Pendiente | — |
 | **T07** | `docs/problema-1` | Ximena Gress | `JeesieGress-ITSOEH` | Alexander Martin | ✅ Integrada | — |
-| **T08** | `pruebas/problema-1` | Ximena Gress | `JeesieGress-ITSOEH` | Francisco Neria | ⏳ Pendiente | — |
+| **T08** | `pruebas/problema-1` | Ximena Gress | `JeesieGress-ITSOEH` | Francisco Neria | ✅ Integrada | — |
 | **T09** | `java/problema-2` | Francisco Neria | `FranciscoND521` | Juan Ignacio | ⏳ Pendiente | — |
 | **T10** | `docs/problema-2` | Juan Ignacio | `260110464-collab` | Francisco Neria | ✅ Integrada | — |
-| **T11** | `pruebas/problema-2` | Alexander Martin | `AlexF4-afk` | Juan Ignacio | ⏳ Pendiente | — |
+| **T11** | `pruebas/problema-2` | Alexander Martin | `AlexF4-afk` | Juan Ignacio | ✅ Integrada | — |
 | **T12** | `web/resultados` | Ximena Gress | `JeesieGress-ITSOEH` | Juan Ignacio | ⏳ Pendiente | — |
 | **T13** | `web/estilos` | Ximena Gress | `JeesieGress-ITSOEH` | Alexander Martin | ⏳ Pendiente | — |
 | **T14** | `docs/presentacion` | Alexander & Francisco | `AlexF4-afk` | Ximena Gress | ⏳ Pendiente | — |
