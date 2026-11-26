@@ -75,7 +75,7 @@ Finalmente, se sustituyen
 
 # PROBLEMÁTICA 2: MÓDULO FINANCIERO-LÓGICO
 
-## 1. Descripción
+**## 1. Descripción**
 
 Desarrollar un programa que permita calcular el impuesto correspondiente a la compra de un equipo, tomando en cuenta dos condiciones lógicas:
 
@@ -84,11 +84,11 @@ Desarrollar un programa que permita calcular el impuesto correspondiente a la co
 
 Dependiendo de las respuestas, el programa determina si corresponde una exención total, un impuesto reducido o un impuesto general.
 
-## 2. Objetivo
+**## 2. Objetivo**
 
 Aplicar la lógica proposicional y las estructuras condicionales para determinar el porcentaje de impuesto que corresponde a una compra y calcular el total que debe pagar el usuario.
 
-## 3. Funcionamiento
+**## 3. Funcionamiento**
 
 1. Seleccionar la opción 2 del menú principal.
 2. Ingresar el precio base del equipo.
@@ -100,7 +100,7 @@ Aplicar la lógica proposicional y las estructuras condicionales para determinar
 8. Calcula el monto del impuesto y el total a pagar.
 9. Muestra los resultados financieros.
 
-## 4. Condiciones lógicas
+**## 4. Condiciones lógicas**
 
 - P: El comprador es estudiante acreditado.
 - Q: El equipo pertenece al catálogo educativo.
@@ -111,7 +111,7 @@ Las condiciones utilizadas son:
 - P XOR Q: Impuesto reducido (8%).
 - NOT P AND NOT Q: Impuesto general (16%).
 
-## 5. Tabla de verdad
+**## 5. Tabla de verdad**
 
 | P | Q | Impuesto aplicado |
 |---|---|---|
@@ -120,9 +120,9 @@ Las condiciones utilizadas son:
 | 0 | 1 | 8% |
 | 0 | 0 | 16% |
 
-## 6. Ejemplos de ejecución
+**## 6. Ejemplos de ejecución**
 
-### Ejemplo 1: Exención total
+**### Ejemplo 1: Exención total**
 
 **Datos de entrada:**
 
@@ -143,7 +143,7 @@ Monto del impuesto: $0.00
 TOTAL A PAGAR: $1000.00
 ```
 
-### Ejemplo 2: Impuesto reducido
+**### Ejemplo 2: Impuesto reducido**
 
 **Datos de entrada:**
 
@@ -164,7 +164,7 @@ Monto del impuesto: $80.00
 TOTAL A PAGAR: $1080.00
 ```
 
-### Ejemplo 3: Impuesto general
+**### Ejemplo 3: Impuesto general**
 
 **Datos de entrada:**
 
@@ -185,7 +185,7 @@ Monto del impuesto: $160.00
 TOTAL A PAGAR: $1160.00
 ```
 
-## 7. Instrucciones de uso
+**## 7. Instrucciones de uso**
 
 - Seleccionar la opción 2.
 - Ingresar un precio mayor que cero.
@@ -200,7 +200,7 @@ TOTAL A PAGAR: $1160.00
 
 ---
 
-# 3. Menú principal 
+**# 3. Menú principal **
 
 Al ejecutar el programa se presenta el siguiente menú:
 
@@ -220,7 +220,7 @@ La opción 3 permite finalizar el programa.
 
 ---
 
-# 4. Herramientas tecnologías usadas
+**# 4. Herramientas tecnologías usadas**
 
 - Lenguaje de programación: Java.
 - Entorno de desarrollo: Apache NetBeans o Visual Studio Code.
@@ -240,7 +240,7 @@ La opción 3 permite finalizar el programa.
 
 ---
 
-# 5. Instrucciones para ejecutar el rpograma
+**# 5. Instrucciones para ejecutar el rpograma**
 
 1. Tener instalado Java JDK.
 2. Abrir el proyecto en el entorno de desarrollo.
@@ -251,7 +251,7 @@ La opción 3 permite finalizar el programa.
 
 ---
 
-# 6. Conclusion
+**# 6. Conclusion**
 
 Este proyecto integrador permitió aplicar los conocimientos de programación Java para resolver dos problemáticas diferentes.
 
