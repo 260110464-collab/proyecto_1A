@@ -200,7 +200,7 @@ TOTAL A PAGAR: $1160.00
 
 ---
 
-# 3. MENÚ PRINCIPAL
+# 3. Menú principal 
 
 Al ejecutar el programa se presenta el siguiente menú:
 
@@ -220,7 +220,7 @@ La opción 3 permite finalizar el programa.
 
 ---
 
-# 4. HERRAMIENTAS Y TECNOLOGÍAS UTILIZADAS
+# 4. Herramientas tecnologías usadas
 
 - Lenguaje de programación: Java.
 - Entorno de desarrollo: Apache NetBeans o Visual Studio Code.
@@ -240,7 +240,7 @@ La opción 3 permite finalizar el programa.
 
 ---
 
-# 5. INSTRUCCIONES PARA EJECUTAR EL PROGRAMA
+# 5. Instrucciones para ejecutar el rpograma
 
 1. Tener instalado Java JDK.
 2. Abrir el proyecto en el entorno de desarrollo.
@@ -251,7 +251,7 @@ La opción 3 permite finalizar el programa.
 
 ---
 
-# 6. CONCLUSIÓN
+# 6. Conclusion
 
 Este proyecto integrador permitió aplicar los conocimientos de programación Java para resolver dos problemáticas diferentes.
 
