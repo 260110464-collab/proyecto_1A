@@ -39,11 +39,11 @@
 | :---: | :--- | :--- | :--- | :--- | :---: | :---: |
 | **T01** | `organizacion/asignaciones` | Juan Ignacio | `260110464-collab` | Ximena Gress | ✅ Integrada | — |
 | **T02** | `estructura/base` | Juan Ignacio | `260110464-collab` | Alexander Martin | ✅ Integrada | — |
-| **T03** | `web/planteamiento` | Alexander Martin | `AlexF4-afk` | Juan Ignacio | ⏳ Pendiente | — |
+| **T03** | `web/planteamiento` | Alexander Martin | `AlexF4-afk` | Juan Ignacio | ✅ Integrada | — |
 | **T04** | `web/metodologia` | Francisco Neria | `FranciscoND521` | Alexander Martin | ⏳ Pendiente | — |
 | **T05** | `web/integrantes` | Francisco Neria | `FranciscoND521` | Ximena Gress | ⏳ Pendiente | — |
 | **T06** | `java/problema-1` | Alexander Martin | `AlexF4-afk` | Francisco Neria | ⏳ Pendiente | — |
-| **T07** | `docs/problema-1` | Ximena Gress | `JeesieGress-ITSOEH` | Alexander Martin | ⏳ Pendiente | — |
+| **T07** | `docs/problema-1` | Ximena Gress | `JeesieGress-ITSOEH` | Alexander Martin | ✅ Integrada | — |
 | **T08** | `pruebas/problema-1` | Ximena Gress | `JeesieGress-ITSOEH` | Francisco Neria | ⏳ Pendiente | — |
 | **T09** | `java/problema-2` | Francisco Neria | `FranciscoND521` | Juan Ignacio | ⏳ Pendiente | — |
 | **T10** | `docs/problema-2` | Juan Ignacio | `260110464-collab` | Francisco Neria | ⏳ Pendiente | — |
