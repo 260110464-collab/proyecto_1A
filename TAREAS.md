@@ -82,7 +82,7 @@
 ### 📊 Resumen General
 
 * **Total de tareas:** 16
-* **Integradas:** 2
-* **Pendientes:** 14
+* **Integradas:** 16
+* **Pendientes:** 0
 * **Integrantes:** 4
 * **Estado del proyecto:** `EN PROCESO`
